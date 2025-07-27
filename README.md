@@ -21,4 +21,4 @@ set "WALLET_CREDENTIALS_JSON=<PASTE CONTENT OF walletapi.json HERE>"
 :: Paste your Gemini API Key
 set "GEMINI_API_KEY=<PASTE YOUR GEMINI API KEY HERE>"
 4. Run the ApplicationWith the environment variables set, start the application with a single command:python app.py
-Your default web browser will automatically open to http://127.0.0.1:5001, and you can start creating passes.
+Your default web browser will automatically open to http://127.0.0.1:5001, and you can start creating passes..
